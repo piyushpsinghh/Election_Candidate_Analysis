@@ -1,5 +1,5 @@
 # 
-# <h>  **West Bengal Contesting Candidate Analysis with Web Scrapping, Python, MySQL, Power Bi **
+# <h> **West Bengal Contesting Candidate Analysis with Web Scrapping, Python, MySQL, Power Bi.** </h>
 
 **To build an end-to-end data analyst project that involves direct data scraping from the West Bengal Election Commission's website (https://portal.wbsec.org/), data cleaning, and transformation in Python using NumPy and Pandas, followed by loading the processed data directly into a MySQL database. The project further aims to utilize Power BI to fetch and visualize the data from the MySQL database, creating an interactive dashboard to present key insights into contesting candidates' information, constituency distribution, candidate demographics, political party affiliations, and other relevant details..**
 
