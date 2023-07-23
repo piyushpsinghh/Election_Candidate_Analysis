@@ -10,7 +10,8 @@
 <br>
 <p align="center"><a><img src="https://github.com/piyushpsinghh/Election_Candidate_Analysis/blob/main/static/scrap-with-python.svg"><img src="https://github.com/piyushpsinghh/Election_Candidate_Analysis/blob/main/static/store-with-sql.svg"><img src="https://github.com/piyushpsinghh/Election_Candidate_Analysis/blob/main/static/visualize-with-power-bi.svg">
 </a></p> 
-#  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+# <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files| Description |
 | -------------   | ------------- |
@@ -23,12 +24,8 @@
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![language-MySQL](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
-![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
-Power Bi,Web Scraping  ;;: symbol
 
-
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>         <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>          <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>       <img width="50" height="50" src="https://img.icons8.com/ios/50/selenium-test-automation.png" alt="selenium-test-automation"/>        <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>       <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 
 
 
@@ -48,7 +45,7 @@ Power Bi,Web Scraping  ;;: symbol
     
 <br>
 
-#  <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Dashboard Screenshot
+#  <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Dashboard
 <img src="https://github.com/piyushpsinghh/Election_Candidate_Analysis/blob/main/static/dashboard.png">
 <br>
 
