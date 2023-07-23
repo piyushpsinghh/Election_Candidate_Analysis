@@ -1,5 +1,5 @@
 # 
-# <h>  **West Bengal Election Candidate Analysis with Web Scrapping, Python, SQL, Power Bi,and MS PowerPoint.**
+# <h>  **West Bengal Election Candidate Analysis with Web Scrapping, Python, MySQL, Power Bi,Ms Powerpoint**
 
 **To build an end-to-end data analyst project that involves direct data scraping from the West Bengal Election Commission's website (https://portal.wbsec.org/), data cleaning, and transformation in Python using NumPy and Pandas, followed by loading the processed data directly into a MySQL database. The project further aims to utilize Power BI to fetch and visualize the data from the MySQL database, creating an interactive dashboard to present key insights into contesting candidates' information, constituency distribution, candidate demographics, political party affiliations, and other relevant details..**
 
@@ -47,23 +47,33 @@ Power Bi,Web Scraping  ;;: symbol
     
 <br>
 
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Dashboard Screenshot
 
    
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
    
+    o  Contesting Candidate Disparity: Only 10% of total Contesting Candidate have filed nominations from Zila Parishad constituency  
     
-    o Analysed the relationship between the number of Job Openings and the Size of the companies.
+    o  Societal Representation: West Bengal's population is divided, with 50% belonging to the general category and the other 50% 
+       comprising SC, ST, and OBC communities. Analyze the representation of various communities in the candidate pool to assess 
+       inclusivity.
     
-    o	Explored the trends for the different job profiles and the number of job openings available for them.
+    o  Gender Balance: The distribution of male candidates is slightly higher (around 3%) than female candidates. Empowerment 
+       initiatives can be explored to enhance female representation in politics and bridge the gender gap.
      
-    o	Analysed the percentage of total jobs available for diffrent Standards of Experiences.
-  
-    o	Analysed the top skills based on number of jobs available for them.
+    o  ST Category Dynamics: Surprisingly, the gender distribution in the ST category is opposite to the overall average, with more
+       female candidates. 
     
-    o	Analysed the number of jobs present in different locations.
+    o  Inclusivity for Other Genders: Although less represented, address the concerns and challenges faced by the "other" gender 
+       category, striving for an inclusive and diverse political landscape.
     
-    o	Found out the Top 10 companies based on the number of jobs present in them.
-
+    o  Zila Parishad Party Equilibrium: In the Zila Parishad constituency, both BJP and AITC enjoy an equal weight in terms of 
+       representation. 
+    
+    o  Parishads with High Nominations: Purba Medinipur, South 24 Paraganas, and Paschim are the top three parishads with a large 
+       number of nominations.
+    
+    o Panchayat Constituency Affiliation: AITC has a higher number of candidates in the Panchayat Samiti constituency. 
    
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
